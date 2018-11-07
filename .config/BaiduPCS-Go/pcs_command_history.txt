@@ -1,0 +1,23 @@
+help
+login
+cd 知乎
+ls
+d 李笑来*
+ls
+cd 170个付费资源/
+ls
+cd ..
+ls
+cd 8、知乎营销-13/
+ls
+pwd
+d /知乎/8、知乎营销-13
+cd
+cd ..
+ls
+cd FinalCutPro插件/
+pwd
+d /FinalCutPro插件/
+ls
+pwd
+d /FinalCutPro插件/Wondershare\ Video\ Converter\ Ultimate_10.1.1.1_xclient.info.dmg 

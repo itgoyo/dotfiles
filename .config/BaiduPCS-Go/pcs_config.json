@@ -1,0 +1,22 @@
+{
+ "baidu_active_uid": 1918542226,
+ "baidu_user_list": [
+  {
+   "uid": 1918542226,
+   "name": "iTgoyo",
+   "sex": "♂",
+   "age": 3.2,
+   "bduss": "NSdE11TEFxTFkzeFJ2eWJRTjdRRXBTTDUyM2R3d2k3bHZ5d3ZrMjlpcWpYZVpiQUFBQUFBJCQAAAAAAAAAAAEAAACSoVpyaVRnb3lvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKPQvluj0L5bTW",
+   "ptoken": "c64de25af6847431ae3d89fbcc6a4c01",
+   "stoken": "2cb6392c86af8ebc500dcb59330202a7f2553d33d63b89f62571ed1a52611b16",
+   "workdir": "/FinalCutPro插件"
+  }
+ ],
+ "appid": 266719,
+ "cache_size": 30000,
+ "max_parallel": 100,
+ "max_download_load": 1,
+ "user_agent": "netdisk;8.3.1;android-android",
+ "savedir": "/Users/itgoyo/Downloads",
+ "enable_https": false
+}
